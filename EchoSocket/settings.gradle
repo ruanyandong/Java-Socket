@@ -1,0 +1,3 @@
+include ':echokeepalive'
+include ':app'
+rootProject.name = "EchoSocket"
